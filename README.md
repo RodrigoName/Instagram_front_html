@@ -1,2 +1,2 @@
 # Instagram_front_html
- Clone_instagram
+Project carried out during bootcamp HMTL Developer DIO (Digital Innovation One)
